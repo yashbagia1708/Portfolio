@@ -4,7 +4,7 @@
 - 🔭 I’m currently working as an **Analyst**
 - 🌱 I’m currently learning **everything that interests me**
 - 👯 Seeking opportunities as a **graduate/ junior**
-- 👨‍💻 Some of my best projects: [https://github.com/yashbagia1708/Portfolio.git](https://github.com/yashbagia1708/Portfolio.git)
+- 👨‍💻 Some of my best projects: [Portfolio](https://github.com/yashbagia1708/Portfolio/tree/master)
 - 💬 Ask me about **DSA, ML, Cloud, and AI**
 - 📫 How to reach me **yashbagia1708@gmail.com**
 - ⚡ Fun fact: **I speak fluent Python, dream in cloud, and occasionally have deep frustrating debates with my code at 2 AM until it turns green.**
