@@ -1,4 +1,4 @@
-Project Title: CNN Autoencoder Project (Supervised and Unsupervised)
+CNN Autoencoder Project (Supervised and Unsupervised)
 
 Purpose:
 The project implements both supervised and unsupervised convolutional autoencoders using the CIFAR-10 dataset. It explores the use of autoencoders for dimensionality reduction and image reconstruction, with an additional focus on supervised learning for classification tasks.
