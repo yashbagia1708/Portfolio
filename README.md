@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yash</h1>
 <h3 align="center">💻 Code nerd | Data wrangler | Debugging life one bug at a time 🚀</h3>
 
-- 🔭 I’m currently working as an **Analyst**
+- 🔭 I’m currently working as a **Data Analyst**
 - 🌱 I’m currently learning **everything that interests me**
 - 👨‍💻 Some of my best projects: [Portfolio](https://github.com/yashbagia1708/Portfolio/tree/master)
 - 💬 Ask me about **DSA, ML, Cloud, and AI**
